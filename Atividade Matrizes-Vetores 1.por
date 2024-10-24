@@ -6,7 +6,7 @@ programa
 		inteiro numeros[5] = {2,4,6,8,10} 
 			
 		para(inteiro col=0; col < 5; col++){
-				escreva(numeros[col], " \n")
+			escreva(numeros[col], " \n")
 		}
 	}
 }
